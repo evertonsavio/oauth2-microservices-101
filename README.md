@@ -1,5 +1,11 @@
 
-### Spring Cloud Oauth2  
+### Spring Cloud Oauth2
+  
+* Debian quick notes
+```
+sudo chmod -R 777 ./
+sudo chmod +x filename
+```
   
 * Inicialização do keycloak e postgres por docker criando uma rede externa. 
 ``` 
