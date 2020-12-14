@@ -1,4 +1,4 @@
-package de.evertonsavio.webservice.api.ResourceServer;
+package evertonsavio.webservice.api.ResourceServer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

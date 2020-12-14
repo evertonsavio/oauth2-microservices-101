@@ -1,4 +1,4 @@
-package de.evertonsavio.webservice.api.ResourceServer.controllers;
+package evertonsavio.webservice.api.ResourceServer.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

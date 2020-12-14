@@ -1,4 +1,4 @@
-package de.evertonsavio.webservice.api.ResourceServer;
+package evertonsavio.webservice.api.ResourceServer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
