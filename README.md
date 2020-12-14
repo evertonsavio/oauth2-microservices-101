@@ -60,4 +60,13 @@ docker run --name teste-pgadmin --network=keycloak-network -p 15432:80 -e "PGADM
 * Em Port deixar padrao 5432
 * Username e Password do bando de dados descritos inicialmente na docker-compose.yml file.
 
- 
+ ### SMTP SERVER OAUTH2 KEYCLOAK CONFIGURATION
+   
+```
+Host smtp.gmail.com
+Port 465
+From test.noreply@gmail.com
+Enable SSL ON
+Enable Authentication ON
+
+```
