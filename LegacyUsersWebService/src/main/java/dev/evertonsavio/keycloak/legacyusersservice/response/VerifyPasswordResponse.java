@@ -8,6 +8,8 @@ package dev.evertonsavio.keycloak.legacyusersservice.response;
 
 public class VerifyPasswordResponse {
     private boolean result;
+
+    public VerifyPasswordResponse(){}
  
     public VerifyPasswordResponse(boolean result) {
 		this.result = result;

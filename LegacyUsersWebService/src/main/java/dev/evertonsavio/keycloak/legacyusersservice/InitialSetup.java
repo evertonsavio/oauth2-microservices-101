@@ -27,7 +27,7 @@ public class InitialSetup {
                 "qswe3asfba4asr4",
                 "Everton Savio",
                 "Santos Lucas",
-                "test@test.com",
+                "test2@test.com",
                 bCryptPasswordEncoder.encode("123123"),
                 "",
                 false);

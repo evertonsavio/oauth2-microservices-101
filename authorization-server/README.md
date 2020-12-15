@@ -1,5 +1,14 @@
 
 ## Authorization Server Oauth2  
+
+> ./standalone.sh -Djboss.socket.binding.port-offset=100  
+  * User Storage SPI from image: 
+```
+FROM jboss/keycloak:10.0.1
+COPY ./remote-postgres-spi.jar /opt/jboss/keycloak/standalone/deployments/   
+```
+  
+> docker run -d -p 8080:8080 -e KEYCLOAK_USER=admin -e KEYCLOAK_PASSWORD=admin 09fff1d54e5f 
   
 #### Static Users Configurations in a new Realm
 > Create Realm > Create User > On Credentials tab:  set new password for the test user.

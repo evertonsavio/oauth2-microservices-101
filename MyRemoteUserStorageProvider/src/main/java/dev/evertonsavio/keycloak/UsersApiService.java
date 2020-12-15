@@ -8,11 +8,11 @@ import javax.ws.rs.core.MediaType;
 public interface UsersApiService {
 
     @GET
-    @Path("/{username}")
-    User getUserDetails(@PathParam("username") String username);
+    @Path("/{userName}")
+    User getUserDetails(@PathParam("userName") String userName);
 
     @POST
     @Produces(MediaType.APPLICATION_JSON)
-    @Path("/{username}/verify-password")
-    VerifyPasswordResponse verifyUserPassword(@PathParam("username") String username, String password);
+    @Path("/{userName}/verify-password")
+    VerifyPasswordResponse verifyUserPassword(@PathParam("userName") String userName, String password);
 }
