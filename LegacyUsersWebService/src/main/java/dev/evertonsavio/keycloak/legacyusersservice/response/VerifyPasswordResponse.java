@@ -6,11 +6,6 @@ package dev.evertonsavio.keycloak.legacyusersservice.response;
  * and open the template in the editor.
  */
 
-
-/**
- *
- * @author sergeykargopolov
- */
 public class VerifyPasswordResponse {
     private boolean result;
  
