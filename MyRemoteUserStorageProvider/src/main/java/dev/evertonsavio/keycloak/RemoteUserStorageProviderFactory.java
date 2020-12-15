@@ -13,7 +13,7 @@ public class RemoteUserStorageProviderFactory implements UserStorageProviderFact
 
     @Override
     public RemoteUserStorageProvider create(KeycloakSession keycloakSession, ComponentModel componentModel) {
-        return new RemoteUserStorageProvider(keycloakSession, componentModel, buildHttpClient("http://localhost:8099"));
+        return new RemoteUserStorageProvider(keycloakSession, componentModel, buildHttpClient("http://172.16.106.13:8099"));
     }
 
     @Override
