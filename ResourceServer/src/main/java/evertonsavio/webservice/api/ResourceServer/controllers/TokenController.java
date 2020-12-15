@@ -48,10 +48,24 @@ public class TokenController {
                 entity, TokenResponse.class);
 
         System.out.println(response.getBody().getAccess_token());
-
         TokenResponse tokenResponse = new TokenResponse();
-
         tokenResponse.setAccess_token(response.getBody().getAccess_token());
+
+       /* HttpHeaders createUserHeaders = new HttpHeaders();
+        createUserHeaders.setContentType(MediaType.APPLICATION_JSON);
+        createUserHeaders.add("Authorization", "Bearer "+ tokenResponse.getAccess_token());
+
+        MultiValueMap<String, String> properties = new LinkedMultiValueMap<>();
+        properties.add("firstName", "Sergey");
+        properties.add("lastName", "Kargopolov");
+        properties.add("email", "test@test.com");
+        properties.add("enabled", "true");
+        properties.add("username", "app-user");
+
+        HttpEntity<String> request = new HttpEntity<>(properties.toString(), createUserHeaders);
+        String res = restTemplate.postForObject("http://localhost:8080/auth/admin/realms/ms-users/users", request, String.class);
+
+        System.out.println(res);*/
 
         return ResponseEntity.status(HttpStatus.OK).body(tokenResponse);
 
