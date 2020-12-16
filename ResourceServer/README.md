@@ -1,6 +1,7 @@
 
 ### Spring Boot Resource Server Oauth2
  
+* https://github.com/making/demo-oauth2-login
 > Resource Server initial dependencies
 ```
 1. Spring Web
