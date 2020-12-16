@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
+import javax.servlet.http.HttpServletRequest;
 import java.util.Collections;
 import java.util.Map;
 import java.util.Optional;
@@ -22,7 +23,16 @@ import java.util.Optional;
 public class TokenController {
 
     @GetMapping
-    public Map<String, Object> getToken(@AuthenticationPrincipal Jwt jwt){
+    public Map<String, Object> getToken(@AuthenticationPrincipal Jwt jwt, HttpServletRequest request){
+
+        try {
+            String authorizationHeader = request.getHeader("Authorization");
+            System.out.println("AUTH: "+ authorizationHeader);
+            System.out.println(jwt.getClaims().get("sub"));
+        }catch (Exception e){
+            System.out.println(e);
+        }
+
 
         return Collections.singletonMap("principal", jwt);
     }
