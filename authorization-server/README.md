@@ -1,6 +1,15 @@
 
 ## Authorization Server Oauth2  
 
+---
+* Social Login  
+  
+> https://medium.com/@didelotkev/facebook-as-identity-provider-in-keycloak-cf298b47cb84  
+
+> https://keycloakthemes.com/blog/how-to-setup-sign-in-with-google-using-keycloak
+
+---
+
 > ./standalone.sh -Djboss.socket.binding.port-offset=100  
   * User Storage SPI from image: 
 ```
