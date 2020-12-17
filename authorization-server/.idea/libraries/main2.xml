@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="main2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/jboss/ironjacamar/api/main/ironjacamar-core-api-1.4.22.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/jboss/ironjacamar/api/main/ironjacamar-common-spi-1.4.22.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/jboss/ironjacamar/api/main/ironjacamar-common-api-1.4.22.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

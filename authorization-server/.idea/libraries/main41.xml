@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="main41">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/picketbox/main/picketbox-5.0.3.Final-redhat-00005.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/picketbox/main/picketbox-commons-1.0.0.final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/picketbox/main/picketbox-infinispan-5.0.3.Final-redhat-00005.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

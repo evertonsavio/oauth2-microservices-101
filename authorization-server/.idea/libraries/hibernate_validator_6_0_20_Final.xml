@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hibernate-validator-6.0.20.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/hibernate/validator/main/hibernate-validator-6.0.20.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

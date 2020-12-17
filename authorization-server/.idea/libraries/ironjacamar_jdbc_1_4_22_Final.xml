@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ironjacamar-jdbc-1.4.22.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/jboss/ironjacamar/jdbcadapters/main/ironjacamar-jdbc-1.4.22.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

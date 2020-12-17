@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="undertow-websockets-jsr-2.1.3.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/io/undertow/websocket/main/undertow-websockets-jsr-2.1.3.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

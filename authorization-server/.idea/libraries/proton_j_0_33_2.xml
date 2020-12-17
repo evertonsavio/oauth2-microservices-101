@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="proton-j-0.33.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/apache/qpid/proton/main/proton-j-0.33.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

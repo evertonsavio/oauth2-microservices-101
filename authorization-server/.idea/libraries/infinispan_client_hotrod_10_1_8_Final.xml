@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="infinispan-client-hotrod-10.1.8.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/infinispan/client/hotrod/main/infinispan-client-hotrod-10.1.8.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

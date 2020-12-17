@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-transaction-client-1.1.11.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/wildfly/transaction/client/main/wildfly-transaction-client-1.1.11.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

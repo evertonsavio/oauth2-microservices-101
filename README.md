@@ -6,6 +6,11 @@
 sudo chmod -R 777 ./
 sudo chmod +x filename
 ```
+* Databases  
+```
+https://www.tecmint.com/install-postgresql-and-pgadmin-in-ubuntu/
+https://stackoverflow.com/questions/5598517/find-the-host-name-and-port-using-psql-commands#:~:text=The%20postgresql%20port%20is%20defined,conf%20file.&text=Changing%20the%20number%20there%20requires,for%20it%20to%20take%20effect.&text=You%20can%20use%20the%20command,%22%20at%20port%20%22port_number%22.
+```
   
 * Inicialização do keycloak e postgres por docker criando uma rede externa. 
 ``` 

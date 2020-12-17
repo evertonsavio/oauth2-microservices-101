@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="main31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/codehaus/woodstox/main/woodstox-core-6.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/codehaus/woodstox/main/stax2-api-4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

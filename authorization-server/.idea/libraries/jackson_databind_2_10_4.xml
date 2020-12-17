@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jackson-databind-2.10.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/com/fasterxml/jackson/core/jackson-databind/main/jackson-databind-2.10.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

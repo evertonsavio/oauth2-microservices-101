@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="main4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/infinispan/hibernate-cache/main/infinispan-hibernate-cache-v53-10.1.8.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/infinispan/hibernate-cache/main/infinispan-hibernate-cache-commons-10.1.8.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/infinispan/hibernate-cache/main/infinispan-hibernate-cache-spi-10.1.8.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

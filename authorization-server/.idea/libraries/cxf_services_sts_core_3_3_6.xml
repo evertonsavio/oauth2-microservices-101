@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cxf-services-sts-core-3.3.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/apache/cxf/services-sts/main/cxf-services-sts-core-3.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

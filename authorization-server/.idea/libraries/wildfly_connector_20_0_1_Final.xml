@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wildfly-connector-20.0.1.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/jboss/as/connector/main/wildfly-connector-20.0.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

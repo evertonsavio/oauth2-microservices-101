@@ -1,3 +1,0 @@
-# Profile
-
-Information from Keycloak.

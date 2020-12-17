@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="infinispan-cachestore-jdbc-10.1.8.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/infinispan/persistence/jdbc/main/infinispan-cachestore-jdbc-10.1.8.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

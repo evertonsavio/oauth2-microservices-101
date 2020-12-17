@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="opentracing-util-0.31.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/io/opentracing/opentracing-util/main/opentracing-util-0.31.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

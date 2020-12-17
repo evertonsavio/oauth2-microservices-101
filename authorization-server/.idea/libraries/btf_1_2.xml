@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="btf-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/com/github/fge/btf/main/btf-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

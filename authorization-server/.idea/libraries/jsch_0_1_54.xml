@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsch-0.1.54">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/com/jcraft/jsch/main/jsch-0.1.54.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

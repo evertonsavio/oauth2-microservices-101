@@ -10,6 +10,7 @@
 ```
 * Application is secure now, need to provide Authorization Token on requests. For this work is necessary to provide 
 the following properties to the application.
+
 ### Properties
 > application.properties
 ```

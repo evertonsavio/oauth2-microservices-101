@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="resteasy-cdi-3.12.1.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/jboss/resteasy/resteasy-cdi/main/resteasy-cdi-3.12.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

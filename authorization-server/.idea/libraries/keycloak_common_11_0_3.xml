@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="keycloak-common-11.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/keycloak/org/keycloak/keycloak-common/main/keycloak-common-11.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="narayana-jts-idlj-5.10.5.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/jboss/jts/main/narayana-jts-idlj-5.10.5.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

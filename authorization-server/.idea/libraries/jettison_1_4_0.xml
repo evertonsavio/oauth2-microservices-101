@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jettison-1.4.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/codehaus/jettison/main/jettison-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

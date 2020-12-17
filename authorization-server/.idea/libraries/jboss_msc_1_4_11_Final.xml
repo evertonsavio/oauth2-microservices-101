@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jboss-msc-1.4.11.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/jboss/msc/main/jboss-msc-1.4.11.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="main10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/apache/activemq/artemis/journal/main/activemq-artemis-native-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/apache/activemq/artemis/journal/main/artemis-journal-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/keycloak-11.0.3/modules/system/layers/base/org/apache/activemq/artemis/journal/main/artemis-commons-2.10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
