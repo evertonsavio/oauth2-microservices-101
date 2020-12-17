@@ -2,11 +2,15 @@ package evertonsavio.webservice.api.ResourceServer.services;
 
 import evertonsavio.webservice.api.ResourceServer.configurations.KeyCloakConfig;
 import evertonsavio.webservice.api.ResourceServer.model.User;
+import org.keycloak.admin.client.CreatedResponseUtil;
+import org.keycloak.admin.client.resource.RealmResource;
+import org.keycloak.admin.client.resource.UserResource;
 import org.keycloak.admin.client.resource.UsersResource;
 import org.keycloak.representations.idm.CredentialRepresentation;
 import org.keycloak.representations.idm.UserRepresentation;
 import org.springframework.stereotype.Service;
 
+import javax.ws.rs.core.Response;
 import java.util.Collections;
 
 @Service
@@ -32,8 +36,12 @@ public class KeycloakAdminClientService {
         kcUser.setEnabled(true);
         kcUser.setEmailVerified(false);
         System.out.println("SAVE");
-        usersResource.create(kcUser);
+        Response response = usersResource.create(kcUser);
+        String userId = CreatedResponseUtil.getCreatedId(response);
+        System.out.println(userId);
 
-
+        UserResource userToDelet = usersResource.get("544cf621-5016-42b2-af3e-e184e82fa08d");
+        userToDelet.remove();
+        
     }
 }
