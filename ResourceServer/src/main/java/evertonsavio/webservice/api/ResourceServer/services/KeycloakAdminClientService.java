@@ -42,6 +42,6 @@ public class KeycloakAdminClientService {
 
         UserResource userToDelet = usersResource.get("544cf621-5016-42b2-af3e-e184e82fa08d");
         userToDelet.remove();
-        
+
     }
 }

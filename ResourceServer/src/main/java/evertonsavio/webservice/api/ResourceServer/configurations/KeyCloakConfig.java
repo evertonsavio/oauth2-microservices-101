@@ -31,10 +31,7 @@ public class KeyCloakConfig {
                     .password(password)
                     .clientId(clientId)
                     .clientSecret(clientSecret)
-                    .resteasyClient(new ResteasyClientBuilder()
-                            .connectionPoolSize(10)
-                            .build())
-                    .build();
+                    .resteasyClient(new ResteasyClientBuilder().connectionPoolSize(10).build()).build();
 
         }
         System.out.println(keycloak.serverInfo().getInfo());
