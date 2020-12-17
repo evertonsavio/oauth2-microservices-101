@@ -13,7 +13,9 @@ public class WebSecurity extends WebSecurityConfigurerAdapter {
 
         http.authorizeRequests()
                 .antMatchers(HttpMethod.GET, "/users/status")
-                .hasAuthority("SCOPE_profile")
+                //.hasAuthority("SCOPE_profile")
+                .hasRole("developer")
+                //.hasAnyRole("developer")
                 .anyRequest().authenticated()
                 .and()
                 .oauth2ResourceServer()
