@@ -16,12 +16,16 @@ public class KeycloakAdminClientService {
         System.out.println("GETTING INSTANCE");
         UsersResource usersResource = KeyCloakConfig.getInstance().realm("padotec").users();
         System.out.println("CREDENTIALS");
-        CredentialRepresentation credentialRepresentation = new CredentialRepresentation();
-        credentialRepresentation.setCredentialData(user.getPassword());
+        CredentialRepresentation credential = new CredentialRepresentation();
+
+        credential.setType(CredentialRepresentation.PASSWORD);
+        credential.setValue(user.getPassword());
+        credential.setTemporary(false);
+
         System.out.println("PASSWORD" + user.getPassword());
         UserRepresentation kcUser = new UserRepresentation();
         kcUser.setUsername(user.getEmail());
-        kcUser.setCredentials(Collections.singletonList(credentialRepresentation));
+        kcUser.setCredentials(Collections.singletonList(credential));
         kcUser.setFirstName(user.getFirstName());
         kcUser.setLastName(user.getLastName());
         kcUser.setEmail(user.getEmail());
@@ -29,6 +33,7 @@ public class KeycloakAdminClientService {
         kcUser.setEmailVerified(false);
         System.out.println("SAVE");
         usersResource.create(kcUser);
+
 
     }
 }
