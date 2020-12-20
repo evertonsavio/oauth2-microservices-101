@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/LegacyUsersWebService/pom.xml" />
         <option value="$PROJECT_DIR$/ApiGateway/pom.xml" />
         <option value="$PROJECT_DIR$/Albums-Resource-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/discoveryserver/pom.xml" />
+        <option value="$PROJECT_DIR$/DiscoveryService-master/pom.xml" />
       </list>
     </option>
   </component>

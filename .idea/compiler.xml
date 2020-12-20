@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="albums" />
         <module name="ResourceServer" />
+        <module name="DiscoveryService" />
         <module name="ApiGateway" />
         <module name="legacyusersservice" />
       </profile>
@@ -15,6 +16,8 @@
     <bytecodeTargetLevel>
       <module name="albums" target="11" />
       <module name="ApiGateway" target="11" />
+      <module name="discoveryserver" target="11" />
+      <module name="DiscoveryService" target="11" />
       <module name="legacyusersservice" target="11" />
       <module name="ResourceServer" target="11" />
     </bytecodeTargetLevel>
@@ -22,8 +25,10 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ApiGateway" options="-parameters" />
+      <module name="DiscoveryService" options="-parameters" />
       <module name="ResourceServer" options="-parameters" />
       <module name="albums" options="-parameters" />
+      <module name="discoveryserver" options="-parameters" />
       <module name="legacyusersservice" options="-parameters" />
     </option>
   </component>
