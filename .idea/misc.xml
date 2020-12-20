@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/ResourceServer/pom.xml" />
         <option value="$PROJECT_DIR$/LegacyUsersWebService/pom.xml" />
+        <option value="$PROJECT_DIR$/ApiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Albums-Resource-Server/pom.xml" />
       </list>
     </option>
   </component>
