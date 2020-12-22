@@ -15,7 +15,7 @@ public class KeyCloakConfig {
     final static String clientId = "admin-cli";
     final static String clientSecret = "7da668ec-8598-49fb-a542-900d9eedb43c";
     final static String userName = "root";
-    final static String password = "";
+    final static String password = "Kc@PADOtec!";
 
     public KeyCloakConfig() {
     }

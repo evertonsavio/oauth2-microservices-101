@@ -84,15 +84,16 @@ public class KeycloakAdminClientService {
         kcUser.setCredentials(Collections.singletonList(credential));
         kcUser.setFirstName(user.getFirstName());
         kcUser.setLastName(user.getLastName());
+        kcUser.setUsername(user.getEmail());
         kcUser.setEmail(user.getEmail());
         kcUser.setEnabled(true);
         kcUser.setEmailVerified(false);
-        kcUser.setId(user.getUuid());
+        //kcUser.setId(user.getUuid());
         System.out.println("SAVE");
         Response response = usersResource.create(kcUser);
 
-        //String userId = CreatedResponseUtil.getCreatedId(response);
-        //System.out.println(userId);
+        String userId = CreatedResponseUtil.getCreatedId(response);
+        System.out.println(userId);
 
         //UserResource userToDelet = usersResource.get("544cf621-5016-42b2-af3e-e184e82fa08d");
         //userToDelet.remove();
