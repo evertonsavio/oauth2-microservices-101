@@ -16,6 +16,9 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/users")
 public class UsersController {
 
+    @Autowired
+    KeycloakAdminClientService kcAdminClient;
+
     @GetMapping("/status")
     public String status(){
         return "working";
@@ -34,9 +37,6 @@ public class UsersController {
     public UserRest getUser(@PathVariable String id, @AuthenticationPrincipal Jwt jwt){
         return new UserRest("Savio", "Lucas", "");
     }
-
-    @Autowired
-    KeycloakAdminClientService kcAdminClient;
 
     @RequestMapping(value = "/user", method = RequestMethod.POST)
     public String createUser(@RequestBody User user) {

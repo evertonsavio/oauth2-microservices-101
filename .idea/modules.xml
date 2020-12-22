@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ApiGateway/ApiGateway.iml" filepath="$PROJECT_DIR$/ApiGateway/ApiGateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/DiscoveryService-master/DiscoveryService.iml" filepath="$PROJECT_DIR$/DiscoveryService-master/DiscoveryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyRemoteUserStorageProvider/MyRemoteUserStorageProvider.iml" filepath="$PROJECT_DIR$/MyRemoteUserStorageProvider/MyRemoteUserStorageProvider.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Oauth2-Microservices-Spring.iml" filepath="$PROJECT_DIR$/.idea/Oauth2-Microservices-Spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/ResourceServer/ResourceServer.iml" filepath="$PROJECT_DIR$/ResourceServer/ResourceServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Albums-Resource-Server/albums.iml" filepath="$PROJECT_DIR$/Albums-Resource-Server/albums.iml" />
