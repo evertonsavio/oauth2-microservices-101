@@ -10,12 +10,12 @@ import org.springframework.context.annotation.Configuration;
 public class KeyCloakConfig {
 
     static Keycloak keycloak = null;
-    final static String serverUrl = "http://172.31.1.101:8080/auth";
+    final static String serverUrl = "http://stage.padotec.com.br:8080/auth";
     public final static String realm = "master";
     final static String clientId = "admin-cli";
     final static String clientSecret = "7da668ec-8598-49fb-a542-900d9eedb43c";
     final static String userName = "root";
-    final static String password = "Kc@PADOtec!";
+    final static String password = "";
 
     public KeyCloakConfig() {
     }

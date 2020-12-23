@@ -21,6 +21,8 @@ public class WebSecurity extends WebSecurityConfigurerAdapter {
                 .antMatchers(HttpMethod.GET, "/users/status")
                 //.hasAuthority("SCOPE_profile")
                 .hasRole("developer")
+                .antMatchers("/users/check")
+                .permitAll()
                 //.hasAnyRole("developer")
                 .anyRequest().authenticated()
                 .and()
