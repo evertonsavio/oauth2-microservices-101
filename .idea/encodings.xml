@@ -2,13 +2,16 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Albums-Resource-Server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Albums-Resource-Server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ApiGateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ApiGateway/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DiscoveryService-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DiscoveryService-master/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/LegacyUsersWebService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/LegacyUsersWebService/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MyRemoteUserStorageProvider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MyRemoteUserStorageProvider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ResourceServer-master/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ResourceServer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ResourceServer/src/main/resources" charset="UTF-8" />
   </component>
