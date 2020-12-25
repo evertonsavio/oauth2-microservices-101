@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/DiscoveryService-master/pom.xml" />
         <option value="$PROJECT_DIR$/MyRemoteUserStorageProvider/pom.xml" />
         <option value="$PROJECT_DIR$/ResourceServer-master/pom.xml" />
+        <option value="$PROJECT_DIR$/Albums-Resource-Server-Eureka-Client/pom.xml" />
+        <option value="$PROJECT_DIR$/Photos-Resource-Server-Eureka-Client/pom.xml" />
       </list>
     </option>
   </component>

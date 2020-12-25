@@ -23,101 +23,98 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e51abfb-a376-40df-9190-d8ade70ece57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Microservices-Spring-Oauth2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_http_client_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jodah_typetools_0_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_38.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_38.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_21_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_4_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_sync_4_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_2_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_2_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_oauth2_resource_server_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_bus_2_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_context_3_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_core_3_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_bus_amqp_2_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_stream_rabbit_3_0_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_3_0_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_3_0_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_core_3_0_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_3_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_amqp_5_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_5_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_5_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_jose_5_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_resource_server_5_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Oauth2-Microservices-Spring.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/ResourceServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/configurations/KeyCloakConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/controllers/TokenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/controllers/UsersController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/AttachEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/AttachRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/DeviceEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/DeviceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/GatewayEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/GatewayRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/LockEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/LocksRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/UsersRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/model/TokenResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/model/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/model/UserRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/security/KeycloakRoleConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/security/WebSecurity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/services/KeycloakAdminClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/resources/.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KeycloakResourceServer/src/test/java/evertonsavio/webservice/api/ResourceServer/ResourceServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_11_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_11_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_11_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_9_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_nimbusds_nimbus_jose_jwt_8_19.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20180130.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_oauth2_resource_server_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_core_5_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_jose_5_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_core_5_3_4_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_resource_server_5_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_2_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_9_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_9_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ResourceServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ResourceServer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/albums/AlbumsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/albums/controllers/AlbumsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/albums/response/AlbumRest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/albums/security/KeycloakRoleConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/src/main/java/com/appsdeveloperblog/ws/api/albums/security/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Albums-Resource-Server/src/test/java/com/appsdeveloperblog/ws/api/albums/AlbumsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryService-master/src/main/java/com/appsdeveloperblog/ws/api/discoveryservice/DiscoveryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/DiscoveryService-master/src/main/java/dev/evertonsavio/ws/api/discoveryservice/DiscoveryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscoveryService-master/src/test/java/com/appsdeveloperblog/ws/api/discoveryservice/DiscoveryServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/DiscoveryService-master/src/test/java/dev/evertonsavio/ws/api/discoveryservice/DiscoveryServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer-master/src/main/java/com/appsdeveloperblog/ws/api/ResourceServer/ResourceServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ResourceServer-master/src/main/java/dev/evertonsavio/ws/api/ResourceServer/ResourceServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer-master/src/main/java/com/appsdeveloperblog/ws/api/ResourceServer/controllers/TokenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ResourceServer-master/src/main/java/dev/evertonsavio/ws/api/ResourceServer/controllers/TokenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer-master/src/main/java/com/appsdeveloperblog/ws/api/ResourceServer/controllers/UsersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ResourceServer-master/src/main/java/dev/evertonsavio/ws/api/ResourceServer/controllers/UsersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer-master/src/main/java/com/appsdeveloperblog/ws/api/ResourceServer/response/UserRest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ResourceServer-master/src/main/java/dev/evertonsavio/ws/api/ResourceServer/response/UserRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer-master/src/main/java/com/appsdeveloperblog/ws/api/ResourceServer/security/KeycloakRoleConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ResourceServer-master/src/main/java/dev/evertonsavio/ws/api/ResourceServer/security/KeycloakRoleConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer-master/src/main/java/com/appsdeveloperblog/ws/api/ResourceServer/security/WebSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ResourceServer-master/src/main/java/dev/evertonsavio/ws/api/ResourceServer/security/WebSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer-master/src/test/java/com/appsdeveloperblog/ws/api/ResourceServer/ResourceServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ResourceServer-master/src/test/java/dev/evertonsavio/ws/api/ResourceServer/ResourceServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/ResourceServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/configurations/KeyCloakConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/controllers/TokenController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/controllers/UsersController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/AttachEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/AttachRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/DeviceEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/DeviceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/GatewayEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/GatewayRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/LockEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/LocksRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/data/UsersRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/model/TokenResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/model/UserDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/model/UserRest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/security/KeycloakRoleConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/security/WebSecurity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/java/evertonsavio/webservice/api/ResourceServer/services/KeycloakAdminClientService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/resources/.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResourceServer/src/test/java/evertonsavio/webservice/api/ResourceServer/ResourceServerApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +132,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1m9tTnlDDfHWb5UwG5rIeYRfkQK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -142,10 +142,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ResourceServer-master/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Photos-Resource-Server-Eureka-Client/pom.xml" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.ResourceServerApplication (1)">
+  <component name="RunManager" selected="Application.ResourceServerApplication">
+    <configuration name="AlbumsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.evertonsavio.ws.api.albums.AlbumsApplication" />
+      <module name="albums" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.evertonsavio.ws.api.albums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dev.evertonsavio.gateway.ApiGateway.ApiGatewayApplication" />
       <module name="ApiGateway" />
@@ -159,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiscoveryServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.ws.api.discoveryservice.DiscoveryServiceApplication" />
-      <module name="DiscoveryService" />
+    <configuration name="PhotosApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.evertonsavio.ws.api.photos.PhotosApplication" />
+      <module name="photos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.appsdeveloperblog.ws.api.discoveryservice.*" />
+          <option name="PATTERN" value="dev.evertonsavio.ws.api.photos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +186,11 @@
       </method>
     </configuration>
     <configuration name="ResourceServerApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.appsdeveloperblog.ws.api.ResourceServer.ResourceServerApplication" />
+      <option name="MAIN_CLASS_NAME" value="dev.evertonsavio.ws.api.ResourceServer.ResourceServerApplication" />
       <module name="ResourceServerMaster" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.appsdeveloperblog.ws.api.ResourceServer.*" />
+          <option name="PATTERN" value="dev.evertonsavio.ws.api.ResourceServer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,7 +200,7 @@
     </configuration>
     <configuration name="ResourceServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="evertonsavio.webservice.api.ResourceServer.ResourceServerApplication" />
-      <module name="ResourceServer" />
+      <module name="KeycloakResourceServer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="evertonsavio.webservice.api.ResourceServer.*" />
@@ -200,10 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ResourceServerApplication (1)" />
         <item itemvalue="Application.ResourceServerApplication" />
+        <item itemvalue="Application.ResourceServerApplication (1)" />
+        <item itemvalue="Application.PhotosApplication" />
+        <item itemvalue="Application.AlbumsApplication" />
         <item itemvalue="Application.ApiGatewayApplication" />
-        <item itemvalue="Application.DiscoveryServiceApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -230,21 +244,25 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1608918244175">
+    <state x="743" y="298" width="424" height="483" key="FileChooserDialogImpl" timestamp="1608919560485">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="287" key="GridCell.Tab.0.bottom/0.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1608918244175" />
-    <state width="1874" height="287" key="GridCell.Tab.0.center" timestamp="1608918244175">
+    <state x="743" y="298" width="424" height="483" key="FileChooserDialogImpl/0.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1608919560485" />
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1608920303295">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="287" key="GridCell.Tab.0.center/0.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1608918244175" />
-    <state width="1874" height="287" key="GridCell.Tab.0.left" timestamp="1608918244175">
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom/0.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1608920303295" />
+    <state width="1874" height="287" key="GridCell.Tab.0.center" timestamp="1608920303295">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="287" key="GridCell.Tab.0.left/0.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1608918244175" />
-    <state width="1874" height="287" key="GridCell.Tab.0.right" timestamp="1608918244175">
+    <state width="1874" height="287" key="GridCell.Tab.0.center/0.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1608920303295" />
+    <state width="1874" height="287" key="GridCell.Tab.0.left" timestamp="1608920303295">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="287" key="GridCell.Tab.0.right/0.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1608918244175" />
+    <state width="1874" height="287" key="GridCell.Tab.0.left/0.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1608920303295" />
+    <state width="1874" height="287" key="GridCell.Tab.0.right" timestamp="1608920303295">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.right/0.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1608920303295" />
   </component>
 </project>

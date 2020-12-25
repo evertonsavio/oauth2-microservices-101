@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="KeycloakResourceServer" />
         <module name="albums" />
         <module name="ResourceServerMaster" />
         <module name="legacyusersservice" />
         <module name="MyRemoteUserStorageProvider" />
-        <module name="ResourceServer" />
         <module name="DiscoveryService" />
+        <module name="photos" />
         <module name="ApiGateway" />
       </profile>
     </annotationProcessing>
@@ -19,9 +20,10 @@
       <module name="albums" target="11" />
       <module name="ApiGateway" target="11" />
       <module name="DiscoveryService" target="11" />
+      <module name="KeycloakResourceServer" target="11" />
       <module name="legacyusersservice" target="11" />
       <module name="MyRemoteUserStorageProvider" target="11" />
-      <module name="ResourceServer" target="11" />
+      <module name="photos" target="11" />
       <module name="ResourceServerMaster" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -29,11 +31,12 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ApiGateway" options="-parameters" />
       <module name="DiscoveryService" options="-parameters" />
+      <module name="KeycloakResourceServer" options="-parameters" />
       <module name="MyRemoteUserStorageProvider" options="-parameters" />
-      <module name="ResourceServer" options="-parameters" />
       <module name="ResourceServerMaster" options="-parameters" />
       <module name="albums" options="-parameters" />
       <module name="legacyusersservice" options="-parameters" />
+      <module name="photos" options="-parameters" />
     </option>
   </component>
 </project>
