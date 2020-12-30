@@ -63,6 +63,29 @@ keytool -importkeystore -deststorepass secret -destkeypass secret -destkeystore 
 * (PARCIAL DIRECT KEYSTORE) https://medium.com/@ajithprasadanandsadanam/quick-setup-of-ssl-certificates-using-certbot-on-keycloak-c74ac14760a
 * (NÃO TESTADO) https://wjw465150.gitbooks.io/keycloak-documentation/content/server_installation/topics/network/https.html
 ---
+### Errors Comuns encontrados para utilizar keycloak-admin-client. 
+* Criar usuário do client falha https://stackoverflow.com/questions/41164855/keycloak-create-new-user-fails/62056367#62056367. 
+* Versoes das dependencias https://stackoverflow.com/questions/39861900/resteasy003145-unable-to-find-a-messagebodyreader-of-content-type-application-j. 
+```
+		<dependency>
+			<groupId>org.keycloak</groupId>
+			<artifactId>keycloak-admin-client</artifactId>
+			<version>6.0.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-jackson2-provider</artifactId>
+			<version>3.1.0.Final</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jboss.resteasy</groupId>
+			<artifactId>resteasy-client</artifactId>
+			<version>3.1.3.Final</version>
+		</dependency>
+```
+---
 ### Spring Cloud Oauth2
   
 * Debian quick notes
