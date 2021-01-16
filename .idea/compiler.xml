@@ -11,7 +11,6 @@
         <module name="legacyuserswebservice" />
         <module name="MyRemoteUserStorageProvider" />
         <module name="spring-cloud-gateway" />
-        <module name="ResourceServer" />
         <module name="DiscoveryService" />
         <module name="photos" />
         <module name="keycloakresourceserver" />
@@ -28,7 +27,6 @@
       <module name="MyRemoteUserStorageProvider" target="11" />
       <module name="myresourceserver" target="11" />
       <module name="photos" target="11" />
-      <module name="ResourceServer" target="11" />
       <module name="spring-cloud-gateway" target="11" />
       <module name="SpringMVCWebClient" target="11" />
     </bytecodeTargetLevel>
@@ -38,7 +36,6 @@
       <module name="ApiGateway" options="-parameters" />
       <module name="DiscoveryService" options="-parameters" />
       <module name="MyRemoteUserStorageProvider" options="-parameters" />
-      <module name="ResourceServer" options="-parameters" />
       <module name="SpringMVCWebClient" options="-parameters" />
       <module name="albums" options="-parameters" />
       <module name="keycloakresourceserver" options="-parameters" />

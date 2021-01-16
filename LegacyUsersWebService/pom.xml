@@ -9,8 +9,8 @@
         <version>2.3.5.RELEASE</version>
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.appsdeveloperblog.tutorials</groupId>
-    <artifactId>legacyusersservice</artifactId>
+    <groupId>dev.evertonsavio.keycloak</groupId>
+    <artifactId>legacyuserswebservice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>LegacyUsersWebService</name>
     <description>Demo project for Spring Boot</description>

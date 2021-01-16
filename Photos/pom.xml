@@ -8,10 +8,10 @@
 		<version>2.3.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.appsdeveloperblog.ws.api</groupId>
+	<groupId>dev.evertonsavio.ws.api</groupId>
 	<artifactId>photos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>photos</name>
+	<name>Photos</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

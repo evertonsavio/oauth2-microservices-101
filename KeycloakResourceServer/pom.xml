@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>de.evertonsavio.webservice.api</groupId>
-	<artifactId>ResourceServer</artifactId>
+	<artifactId>keycloakresourceserver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ResourceServer</name>
+	<name>KeycloakResourceServer</name>
 	<description>Resource Server Spring Boot</description>
 
 	<properties>

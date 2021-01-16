@@ -3,18 +3,18 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/ApiGateway-master/pom.xml" />
+        <option value="$PROJECT_DIR$/Albums/pom.xml" />
+        <option value="$PROJECT_DIR$/Photos/pom.xml" />
+        <option value="$PROJECT_DIR$/ApiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/DiscoveryService/pom.xml" />
+        <option value="$PROJECT_DIR$/MyResourceServer/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVCWebClient/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-Cloud-Gateway/pom.xml" />
         <option value="$PROJECT_DIR$/LegacyUsersWebService/pom.xml" />
-        <option value="$PROJECT_DIR$/ResourceServer-master/pom.xml" />
         <option value="$PROJECT_DIR$/KeycloakResourceServer/pom.xml" />
-        <option value="$PROJECT_DIR$/DiscoveryService-master/pom.xml" />
         <option value="$PROJECT_DIR$/MyRemoteUserStorageProvider/pom.xml" />
-        <option value="$PROJECT_DIR$/Albums-Resource-Server-Eureka-Client/pom.xml" />
-        <option value="$PROJECT_DIR$/Photos-Resource-Server-Eureka-Client/pom.xml" />
-        <option value="$PROJECT_DIR$/SpringMVCWebClient/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>
