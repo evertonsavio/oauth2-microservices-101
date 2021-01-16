@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ApiGateway-master/ApiGateway.iml" filepath="$PROJECT_DIR$/ApiGateway-master/ApiGateway.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DiscoveryService-master/DiscoveryService.iml" filepath="$PROJECT_DIR$/DiscoveryService-master/DiscoveryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApiGateway/ApiGateway.iml" filepath="$PROJECT_DIR$/ApiGateway/ApiGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiscoveryService/DiscoveryService.iml" filepath="$PROJECT_DIR$/DiscoveryService/DiscoveryService.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Microservices-Spring-Oauth2.iml" filepath="$PROJECT_DIR$/.idea/Microservices-Spring-Oauth2.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyRemoteUserStorageProvider/MyRemoteUserStorageProvider.iml" filepath="$PROJECT_DIR$/MyRemoteUserStorageProvider/MyRemoteUserStorageProvider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ResourceServer-master/ResourceServer.iml" filepath="$PROJECT_DIR$/ResourceServer-master/ResourceServer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/KeycloakResourceServer/ResourceServer (1) (de.evertonsavio.webservice.api).iml" filepath="$PROJECT_DIR$/KeycloakResourceServer/ResourceServer (1) (de.evertonsavio.webservice.api).iml" />
-      <module fileurl="file://$PROJECT_DIR$/Albums-Resource-Server-Eureka-Client/albums.iml" filepath="$PROJECT_DIR$/Albums-Resource-Server-Eureka-Client/albums.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Gateway/gateway.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Gateway/gateway.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LegacyUsersWebService/legacyusersservice.iml" filepath="$PROJECT_DIR$/LegacyUsersWebService/legacyusersservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Photos-Resource-Server-Eureka-Client/photos.iml" filepath="$PROJECT_DIR$/Photos-Resource-Server-Eureka-Client/photos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyResourceServer/ResourceServer.iml" filepath="$PROJECT_DIR$/MyResourceServer/ResourceServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVCWebClient/SpringMVCWebClient.iml" filepath="$PROJECT_DIR$/SpringMVCWebClient/SpringMVCWebClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Albums/albums.iml" filepath="$PROJECT_DIR$/Albums/albums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeycloakResourceServer/keycloakresourceserver.iml" filepath="$PROJECT_DIR$/KeycloakResourceServer/keycloakresourceserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LegacyUsersWebService/legacyuserswebservice.iml" filepath="$PROJECT_DIR$/LegacyUsersWebService/legacyuserswebservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyResourceServer/myresourceserver.iml" filepath="$PROJECT_DIR$/MyResourceServer/myresourceserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Photos/photos.iml" filepath="$PROJECT_DIR$/Photos/photos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Cloud-Gateway/spring-cloud-gateway.iml" filepath="$PROJECT_DIR$/Spring-Cloud-Gateway/spring-cloud-gateway.iml" />
     </modules>
   </component>
 </project>

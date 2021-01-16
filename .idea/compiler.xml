@@ -6,27 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SpringMVCWebClient" />
         <module name="albums" />
-        <module name="ResourceServer (1) (de.evertonsavio.webservice.api)" />
-        <module name="legacyusersservice" />
+        <module name="legacyuserswebservice" />
         <module name="MyRemoteUserStorageProvider" />
+        <module name="spring-cloud-gateway" />
         <module name="ResourceServer" />
         <module name="DiscoveryService" />
         <module name="photos" />
+        <module name="keycloakresourceserver" />
         <module name="ApiGateway" />
-        <module name="gateway" />
+        <module name="myresourceserver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="albums" target="11" />
       <module name="ApiGateway" target="11" />
       <module name="DiscoveryService" target="11" />
-      <module name="gateway" target="11" />
-      <module name="legacyusersservice" target="11" />
+      <module name="keycloakresourceserver" target="11" />
+      <module name="legacyuserswebservice" target="11" />
       <module name="MyRemoteUserStorageProvider" target="11" />
+      <module name="myresourceserver" target="11" />
       <module name="photos" target="11" />
       <module name="ResourceServer" target="11" />
-      <module name="ResourceServer (1) (de.evertonsavio.webservice.api)" target="11" />
+      <module name="spring-cloud-gateway" target="11" />
+      <module name="SpringMVCWebClient" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -35,11 +39,13 @@
       <module name="DiscoveryService" options="-parameters" />
       <module name="MyRemoteUserStorageProvider" options="-parameters" />
       <module name="ResourceServer" options="-parameters" />
-      <module name="ResourceServer (1) (de.evertonsavio.webservice.api)" options="-parameters" />
+      <module name="SpringMVCWebClient" options="-parameters" />
       <module name="albums" options="-parameters" />
-      <module name="gateway" options="-parameters" />
-      <module name="legacyusersservice" options="-parameters" />
+      <module name="keycloakresourceserver" options="-parameters" />
+      <module name="legacyuserswebservice" options="-parameters" />
+      <module name="myresourceserver" options="-parameters" />
       <module name="photos" options="-parameters" />
+      <module name="spring-cloud-gateway" options="-parameters" />
     </option>
   </component>
 </project>

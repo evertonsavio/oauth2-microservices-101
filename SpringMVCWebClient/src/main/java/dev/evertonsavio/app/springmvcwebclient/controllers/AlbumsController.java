@@ -7,6 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.security.oauth2.client.OAuth2AuthorizedClientService;
+import org.springframework.security.oauth2.core.oidc.OidcIdToken;
 import org.springframework.security.oauth2.core.oidc.user.OidcUser;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -30,8 +31,12 @@ public class AlbumsController {
 	public String getAlbums(Model model, 
 			@AuthenticationPrincipal OidcUser principal) {
 
+		System.out.println("Principal:" + principal);
+		OidcIdToken idToken = principal.getIdToken();
+		String idTokenValue = idToken.getTokenValue();
+		System.out.println(idTokenValue);
 		
-		String url = "http://localhost:8082/albums";
+		String url = "http://localhost:8091/albums";
 
 		List<AlbumRest> albums = webClient.get()
 				.uri(url)
