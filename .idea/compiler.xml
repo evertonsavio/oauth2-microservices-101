@@ -9,6 +9,7 @@
         <module name="SpringMVCWebClient" />
         <module name="albums" />
         <module name="legacyuserswebservice" />
+        <module name="SocialLoginWebClient" />
         <module name="MyRemoteUserStorageProvider" />
         <module name="spring-cloud-gateway" />
         <module name="DiscoveryService" />
@@ -27,6 +28,7 @@
       <module name="MyRemoteUserStorageProvider" target="11" />
       <module name="myresourceserver" target="11" />
       <module name="photos" target="11" />
+      <module name="SocialLoginWebClient" target="1.5" />
       <module name="spring-cloud-gateway" target="11" />
       <module name="SpringMVCWebClient" target="11" />
     </bytecodeTargetLevel>

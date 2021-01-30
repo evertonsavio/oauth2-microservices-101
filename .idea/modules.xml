@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/DiscoveryService/DiscoveryService.iml" filepath="$PROJECT_DIR$/DiscoveryService/DiscoveryService.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyRemoteUserStorageProvider/MyRemoteUserStorageProvider.iml" filepath="$PROJECT_DIR$/MyRemoteUserStorageProvider/MyRemoteUserStorageProvider.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Oauth2-Java-Microservices.iml" filepath="$PROJECT_DIR$/.idea/Oauth2-Java-Microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocialLoginWebClient/SocialLoginWebClient.iml" filepath="$PROJECT_DIR$/SocialLoginWebClient/SocialLoginWebClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVCWebClient/SpringMVCWebClient.iml" filepath="$PROJECT_DIR$/SpringMVCWebClient/SpringMVCWebClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/Albums/albums.iml" filepath="$PROJECT_DIR$/Albums/albums.iml" />
       <module fileurl="file://$PROJECT_DIR$/KeycloakResourceServer/keycloakresourceserver.iml" filepath="$PROJECT_DIR$/KeycloakResourceServer/keycloakresourceserver.iml" />

@@ -21,7 +21,7 @@ public class SpringMVCWebClientApplication {
 		return new RestTemplate();
 	}
 	
-	@Bean
+	@Bean //OAUTH2 INTERNAL ACCESS TOKEN IN EVERY REQUEST
 	public WebClient webClient(ClientRegistrationRepository clientRegistrationrepository,
 			OAuth2AuthorizedClientRepository oAuth2AuthorizedClientRepository
 			) {
